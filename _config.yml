@@ -1,7 +1,7 @@
 name: ClaudiaMcKenzieDesigns
 favicon: null
-layout_spectrum: 0.77976
-typography_spectrum: 1
+layout_spectrum: 0.26864522229880095
+typography_spectrum: 0.6962401100900024
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fbfbfb'
-    - '#61605e'
-    - '#272526'
-    - '#8bbcc1'
-    - '#904540'
-  brandStrength: 0.5
-  lightness: 0.75
-  saturation: 0.25
-  rhythmicContrast: 1
+    - '#c2c2c2'
+    - '#6a959c'
+    - '#265662'
+    - '#1a1613'
+    - '#332f2c'
+  brandStrength: 0.625
+  lightness: 0.8125
+  saturation: 0.8125
+  rhythmicContrast: 0.7070043403655291
 purpose: []
