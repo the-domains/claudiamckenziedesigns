@@ -1,6 +1,6 @@
 name: Claudia McKenzie
 favicon: null
-layout_spectrum: 0.64585
+layout_spectrum: 0.89431
 typography_spectrum: 0.94661
 title: Claudia McKenzie Designs
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#eeeeec'
-    - '#d6d6d4'
-    - '#4e4e4c'
-    - '#a7a6a2'
-    - '#898886'
+    - '#eff3f6'
+    - '#13161e'
+    - '#9aa8b7'
+    - '#5b6c83'
+    - '#cccdc8'
   brandStrength: 0.75
   lightness: 0.875
   saturation: 0.625
