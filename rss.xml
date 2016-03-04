@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Claudia McKenzie Designs]]></title>
         <description><![CDATA[Claudia McKenzie Designs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/claudiamckenziedesigns/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 02:56:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 02:59:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/claudiamckenziedesigns/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/57cf8caa-b5e8-4dc5-b031-673740e2ba1c.jpg">]]></description>
+            <link>https://thegrid.ai/claudiamckenziedesigns/04b90cce-3e6f-4de5-aae1-8b87d101560b/index.html</link>
+            <guid isPermaLink="false">04b90cce-3e6f-4de5-aae1-8b87d101560b</guid>
+            <pubDate>Fri, 04 Mar 2016 02:58:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac125bb3-fcfe-4625-83b9-4e60ea372d4d.jpg">]]></description>
-            <link>undefined2deb11d7-cbdc-4a86-9bc9-0f60cd7403c8/index.html</link>
+            <link>https://thegrid.ai/claudiamckenziedesigns/2deb11d7-cbdc-4a86-9bc9-0f60cd7403c8/index.html</link>
             <guid isPermaLink="false">2deb11d7-cbdc-4a86-9bc9-0f60cd7403c8</guid>
             <pubDate>Fri, 04 Mar 2016 02:55:44 GMT</pubDate>
         </item>
